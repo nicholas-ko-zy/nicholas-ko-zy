@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am currently in my third year at Yale-NUS College. I have two years of experience using R and Python and recently picked up QGIS.
-
+Please drop me an email at nicholasko@u.yale-nus.edu.sg if you want to get in touch! My website is [nicholas-ko-zy.github.io.](nicholas-ko-zy.github.io)
 _I thought I would be a philosophy major, after that, an urban studies major but finally settled on data science._
 
 Projects:
