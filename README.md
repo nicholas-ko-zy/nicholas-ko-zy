@@ -10,7 +10,7 @@ Projects:
 - :syringe: [Stroke prediction model.](https://nicholas-ko-zy.github.io/projects/stroke.html)
 
 Current Ventures:
-- 🔭 I’m currently learning SQL and how to use a Linux OS. 
+- 🔭 I'm currently taking proof based math courses and statistic classes.
 - 🌱 I’m currently learning about liberal education.
 - 📫 How to reach me: nicholasko@u.yale-nus.edu.sg
 - ⚡ Fun fact: I like to ride my motorcycle.
