@@ -13,5 +13,5 @@ Current Ventures:
 - 🔭 I'm currently taking proof based math courses and statistic classes.
 - 🌱 I’m currently learning about liberal education.
 - 📫 How to reach me: nicholasko@u.yale-nus.edu.sg
-- ⚡ Fun fact: I like to ride my motorcycle.
+- ⚡ Fun fact: I can crochet and I want to learn how to drift a car (preferably an R34).
 
