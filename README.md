@@ -10,7 +10,7 @@ Projects:
 - :syringe: [Stroke prediction model.](https://nicholas-ko-zy.github.io/projects/stroke.html)
 
 Current Ventures:
-- 🔭 I'm currently taking proof based math courses and statistic classes.
+- 🔭 I'm currently taking proof based math courses and statistics classes.
 - 🌱 I’m currently learning about liberal education.
 - 📫 How to reach me: nicholasko@u.yale-nus.edu.sg
 - ⚡ Fun fact: I can crochet and I want to learn how to drift a car (preferably Nissan Skyline GT-R).
