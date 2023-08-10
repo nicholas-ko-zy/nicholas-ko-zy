@@ -3,6 +3,9 @@
 I am currently in my third year at Yale-NUS College. I am skilled in R and Python and recently picked up QGIS.
 Please drop me an email at nicholasko@u.yale-nus.edu.sg if you want to get in touch! My website is [nicholas-ko-zy.github.io](https://nicholas-ko-zy.github.io/).
 
+Past Internships
+- :satellite: Adatos, Geospatial Analyst. I worked on running segmentation algorithms in QGIS and Python.
+
 Projects:
 - :bus: [Mapped real world bus travel data obtained from LTA.](https://nicholas-ko-zy.github.io/projects/migrant-workers.html)
 - :palm_tree: [Analysed mangrove species diversity on Pulau Ubin.](https://nicholas-ko-zy.github.io/projects/covid_dtw.html)
