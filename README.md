@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently in my third year at Yale-NUS College. I am skilled in R and Python and recently picked up QGIS.
+I am currently in my fourth year at Yale-NUS College and will be graduating in May 2024. I am skilled in R and Python and QGIS.
 Please drop me an email at nicholasko@u.yale-nus.edu.sg if you want to get in touch! My website is [nicholas-ko-zy.github.io](https://nicholas-ko-zy.github.io/).
 
 Past Internships
