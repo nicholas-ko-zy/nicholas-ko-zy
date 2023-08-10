@@ -14,7 +14,7 @@ Projects:
 
 Current Ventures:
 - 🔭 I'm currently taking proof based math courses and statistics classes.
-- 🌱 I’m currently learning about liberal education.
+- 🌱 I’m currently learning about liberal education, along with building up the discipline and the furniture of my mind.
 - 📫 How to reach me: nicholasko@u.yale-nus.edu.sg
-- ⚡ Fun fact: I can crochet and I want to learn how to drift a car (preferably Nissan Skyline GT-R).
+- ⚡ Fun fact: I can crochet and I want to learn how to drift a car (preferably a Nissan Skyline GT-R).
 
