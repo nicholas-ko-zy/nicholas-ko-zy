@@ -4,7 +4,7 @@ I am currently in my fourth year at Yale-NUS College and will be graduating in M
 Please drop me an email at nicholasko@u.yale-nus.edu.sg if you want to get in touch! My website is [nicholas-ko-zy.github.io](https://nicholas-ko-zy.github.io/).
 
 Past Internships
-- :satellite: Adatos, Geospatial Analyst. I ran segmentation algorithms in QGIS and Python.
+- :satellite: Adatos, Geospatial Analyst. I ran segmentation algorithms for land use/land cover classification using QGIS and Python.
 
 Projects:
 - :bus: [Mapped real world bus travel data obtained from LTA.](https://nicholas-ko-zy.github.io/projects/migrant-workers.html)
