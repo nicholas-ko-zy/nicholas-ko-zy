@@ -14,7 +14,7 @@ Projects:
 
 Current Ventures:
 - 🔭 I'm currently taking proof based math courses and statistics classes.
-- 🌱 I’m currently learning about liberal education, along with building up the discipline and the furniture of my mind.
+- 🌱 I’m currently learning about liberal education. _"The two great points to be gained in intellectual culture, are the discipline and the furniture of the mind; expanding its powers, and storing it with knowledge." - Yale Faculty, 1828._
 - 📫 How to reach me: nicholasko@u.yale-nus.edu.sg
 - ⚡ Fun fact: I can crochet and I want to learn how to drift a car (preferably a Nissan Skyline GT-R).
 
