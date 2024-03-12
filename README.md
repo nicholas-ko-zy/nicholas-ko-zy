@@ -9,7 +9,7 @@ Past Internships
 
 Projects:
 - :bus: [Mapped real world bus travel data obtained from LTA.](https://nicholas-ko-zy.github.io/projects/migrant-workers.html)
-- :palm_tree: [Analysed mangrove species diversity on Pulau Ubin.]
+- :palm_tree: Analysed mangrove species diversity on Pulau Ubin.
 - :mask: [Compared government restrictions during Covid using time-series clustering.](https://nicholas-ko-zy.github.io/projects/covid_dtw.html)
 - :syringe: [Stroke prediction model.](https://nicholas-ko-zy.github.io/projects/stroke.html)
 
