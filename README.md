@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I have a Bachelor's in Mathematical, Computational and Statistical Sciences from Yale-NUS College (Class of 2024). I know R and Python and QGIS.
+I have a Bachelor's in Mathematical, Computational and Statistical Sciences from Yale-NUS College (Class of 2024). I know R, Python and QGIS.
 Please drop me an email at nicholas.ko.zy@outlook.com if you want to get in touch! My website is [nicholas-ko-zy.github.io](https://nicholas-ko-zy.github.io/).
 
 Past Internships
