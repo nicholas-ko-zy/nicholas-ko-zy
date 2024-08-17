@@ -15,7 +15,7 @@ Projects:
 
 Current Ventures:
 - 🔭 I currently work in the field of operations research.
-- 🌱 I love live music, my dream to is to watch a Tiny Desk Concert in-person!
+- 🌱 I love live music, my dream is to watch a Tiny Desk Concert in-person!
 - 📫 How to reach me: nicholas.ko.zy@outlook.com
-- ⚡ Fun fact: I can crochet and I want to learn how to drift a car one day (preferably a Nissan Skyline GT-R).
+- ⚡ Fun facts: I can crochet and I want to learn how to drift a car one day (preferably a Nissan Skyline GT-R).
 
