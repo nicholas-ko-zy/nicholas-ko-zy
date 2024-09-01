@@ -13,8 +13,7 @@ Projects:
 - :mask: [Compared government restrictions during Covid using time-series clustering.](https://nicholas-ko-zy.github.io/projects/covid_dtw.html)
 - :syringe: [Stroke prediction model.](https://nicholas-ko-zy.github.io/projects/stroke.html)
 
-Current Ventures:
-- 🔭 I currently work in the field of operations research.
+Other info:
 - 🌱 I love live music, my dream is to watch a Tiny Desk Concert in-person!
 - 📫 How to reach me: nicholas.ko.zy@outlook.com
 - ⚡ Fun facts: I can crochet and I want to learn how to drift a car one day (preferably a Nissan Skyline GT-R).
