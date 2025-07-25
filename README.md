@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-I am currently working as an Operations Research Analyst at DSO National Laboratories, Singapore. I have a Bachelor's in Mathematical, Computational and Statistical Sciences from Yale-NUS College (Class of 2024). I know R, Python and QGIS.
+I am currently working as an Operations Research Analyst at DSO National Laboratories, Singapore. In my spare time, I am currently working on a Django web application to visualise the vehicle routing problem (VRP). I have a Bachelor's in Mathematical, Computational and Statistical Sciences from Yale-NUS College (Class of 2024). I am comfortable using R, Python and QGIS.
 Please drop me an email at nicholas.ko.zy@outlook.com if you want to get in touch! My website is [nicholas-ko-zy.github.io](https://nicholas-ko-zy.github.io/).
-
-Current Project (Work-in-Progress): Web Application for the Vehicle Routing Problem
 
 Past Internships
 - :satellite: Adatos (2023), Geospatial Analyst. I ran segmentation algorithms on satellite images for land use/land cover classification using QGIS and Python.
