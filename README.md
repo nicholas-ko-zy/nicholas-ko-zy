@@ -8,7 +8,7 @@ Past Internships
 - 🌴: Yale-NUS College (2021), Summer Research Intern. I used bootstrapping to resample population counts of mangrove trees in an attempt to explain reasons for existing mangrove diversity.
 
 Other info:
-- 🌱 I love live music. I am holding two Tatsuro Yamashita albums in my display picture.
+- 🌱 I love music, especially live music. I am holding two Tatsuro Yamashita albums in my display picture.
 - 📫 How to reach me: nicholas.ko.zy@outlook.com
 - ⚡ Fun facts: I can crochet and I want to learn how to drift a car one day (preferably a Nissan Skyline GT-R).
 
