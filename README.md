@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I have a Bachelor's degree in Mathematics, Statistics and Computer Science from Yale-NUS College. My first job out of undergrad was as an Operations Research Analyst at DSO (Defence Science Organisation), a national R&D lab for the Singaporean military. I'm currently doing something else...
+I have a Bachelor's degree in Mathematics, Statistics and Computer Science from Yale-NUS College. My first job out of undergrad was as an <u>Operations Research Analyst</u> at DSO (Defence Science Organisation), a national R&D lab for the Singaporean military. I'm currently doing something else...
 
 
 **Past Experience**
