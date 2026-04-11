@@ -5,7 +5,6 @@ I have a Bachelor's degree in Mathematical, Computational and Statistical Scienc
 
 **Past Experience**
 
-Past Work Experience
 - 🛡️ DSO National Laboratories (2024 - 2026), Operations Research Analyst. I wrote Python software to automate decision-making for a classified military platform. 
 - :satellite: Adatos (2023), Geospatial Analyst. I ran segmentation algorithms on satellite images for land use/land cover classification using QGIS and Python.
 - 🌴: Yale-NUS College (2021), Summer Research Intern. I used bootstrapping to resample population counts of mangrove trees in an attempt to explain reasons for existing mangrove diversity.
